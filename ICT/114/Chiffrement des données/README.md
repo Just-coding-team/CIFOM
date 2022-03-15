@@ -43,3 +43,8 @@ Numéro: un chiffre ou un nombre qui sert à indiquer la plave de quelqu'un ou q
 
 ![image](https://user-images.githubusercontent.com/73474137/158389828-a390fe1f-cee7-476d-9078-e2cf9e6de4c1.png)
 
+### Le débit binaire
+
+![image](https://user-images.githubusercontent.com/73474137/158390563-0571c712-38cc-44cc-8898-73770dc207cc.png)
+
+*D - débit, n - nombre de données transférées, t - la durée*
