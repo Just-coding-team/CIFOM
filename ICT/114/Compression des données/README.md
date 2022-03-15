@@ -33,3 +33,10 @@ HOURRA HOURRA HOURRRRA
 
 ![image](https://user-images.githubusercontent.com/73474137/158394643-ff3a01fd-5ad5-455c-b62f-e66af33ea846.png)
 ![image](https://user-images.githubusercontent.com/73474137/158394679-de11ad0d-ac62-4171-8f57-e6cf0e10c523.png)
+
+#### LZ78
+
+ta_tata_et_ton_tonton
+
+![image](https://user-images.githubusercontent.com/73474137/158399977-1d3f54b1-9749-4d29-b190-7a547ad913eb.png)
+![image](https://user-images.githubusercontent.com/73474137/158400026-a3ad701d-ca72-4a88-8635-f9858db0a233.png)
