@@ -26,6 +26,8 @@
 ## Sommaire
 
 1. ICT
+- 104
+- 114
 2. Pratique
 
 > Modifier le en cas de besoin
