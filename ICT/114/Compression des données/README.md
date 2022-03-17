@@ -40,3 +40,14 @@ ta_tata_et_ton_tonton
 
 ![image](https://user-images.githubusercontent.com/73474137/158399977-1d3f54b1-9749-4d29-b190-7a547ad913eb.png)
 ![image](https://user-images.githubusercontent.com/73474137/158400026-a3ad701d-ca72-4a88-8635-f9858db0a233.png)
+
+### Compression de vidéos
+
+#### Compression par image
+
+![image](https://user-images.githubusercontent.com/73474137/158834527-ce51e0e9-c62e-435e-b482-fe3d20870c08.png)
+
+**Avantage :**
+- Robuste (La perte d'une image n'influe pas la suite de la vidéo)
+**Désavantage :**
+- Faible taux de compression
