@@ -49,5 +49,28 @@ ta_tata_et_ton_tonton
 
 **Avantage :**
 - Robuste (La perte d'une image n'influe pas la suite de la vidéo)
+
+
 **Désavantage :**
 - Faible taux de compression
+
+#### Prédiction inter images
+
+![image](https://user-images.githubusercontent.com/73474137/158835226-b2c5733e-35f9-4290-a612-9ddf55c46fb1.png)
+
+**Avantage :**
+- Compression importante pouvant aller de 50 à 80%
+
+
+**Désavantage :**
+- Moins robuste
+
+### Compression audio
+
+Le principe de compression audio sur la suppression des fréquances qui ne sont pas nécessaires
+
+1. **Echantillonnage:** Prélèvement à des intervales régulières (Hz)
+2. **Quantification:** Association d'une valeur unique pour chaque échantillons prélevé (bit)
+3. **Signal numérique:** Récupération du code de chaque échantillons sous forme binaire 
+
+![image](https://user-images.githubusercontent.com/73474137/158838599-8f28bae6-9515-4525-9912-62d8001c62e6.png)
