@@ -33,3 +33,19 @@ CMYK (CMJN): Cyan, magenta, jaunem noir
 CODECS: Codeur / décodeur est un dispositif logiciel et/ou materiel de codage et decodage
 
 ![image](https://user-images.githubusercontent.com/73474137/158405000-562f30cc-0a74-41b9-b3af-33aefdabda09.png)
+
+Conteneurs: Un format container est un format pouvant contenir divers types de données comme sous-flux vidéo et/ou audio. Nous pouvons aussi y stocker des sous-titres et des chapitres autrement appelées des métadonnées ou tags.
+
+![image](https://user-images.githubusercontent.com/73474137/158842719-2cbd0ff2-bbcb-485b-86aa-a1be4d92960a.png)
+
+### Image vectoriel 
+
+Une image composé de **plusieurs objets géométriques individuels** (droites, polygones, arcs, cercles). A chaque zoom une image vectoriel est recaculé et redessiné
+
+![image](https://user-images.githubusercontent.com/73474137/158841234-472a5329-7dd3-47f1-9a31-591ca637cfb0.png)
+
+### Audio
+
+CODECS: Codeur / décodeur est un dispositif logiciel et/ou materiel de codage et decodage
+
+![image](https://user-images.githubusercontent.com/73474137/158855526-12405f1d-f78d-41b6-a2d0-4801537c45ea.png)
