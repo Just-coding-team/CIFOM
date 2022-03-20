@@ -7,7 +7,7 @@ Formulaires, requêtes et modelisation des bases de données avec MS Access
 
 ### Objectif pour le test
 #### 1. Interpréter un schéma conceptuel de base de données à l’aide des entités, attributs et relations
-- Être capable de "lire" et comprendre un MCD
+- Être capable de "lire" et comprendre un MCD (lopping)
 
 #### 2. Elaborer, normaliser un schéma logique de base de données et le représenter sous forme de diagramme
 - Être capable d’interpréter un MLD et le "traduire" en MPD (dictionnaire de données)
