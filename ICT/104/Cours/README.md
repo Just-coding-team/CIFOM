@@ -1,3 +1,3 @@
 # Questions à poser ?
 
-- [ ] Comment faire un masque de saisie pour une adresse mail
+- [ ] Importations des données excel mais pas tout
