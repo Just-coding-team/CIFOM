@@ -1,5 +1,7 @@
 # Leçon 1
 
+Objectif création d'un table et gestion des clefs primaires, étrangère et unique 
+
 ### Modelisation des bases des données
 
 ![image](https://user-images.githubusercontent.com/73474137/159160682-9904b4e2-3e22-4408-8e69-d1a62f69f9e2.png)
