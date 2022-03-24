@@ -1,3 +1,3 @@
-# Questions à poser ?
+# Attention à...
 
-- [ ] Importations des données excel mais pas tout
+- picklist dans les sous-formulaires ou dans un formulaire nous devons créer cela avec les clefs étrangères
