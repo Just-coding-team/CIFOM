@@ -131,3 +131,57 @@ Examples d'algorithmes asymétriques:
 - RSA
 - DSA
 - Diffie-Hellman
+
+###### Signatures numériques
+
+Le but d'une signature numérique, est un mécanisme cryptographique qui premet d'assurer l'authentité de **l'autheur**
+
+Nous parlons ici du chiffrement **asymétrique**. Cependant nous pouvons aussi utiliser le chiffrement **non-réversible**.
+
+![image](https://user-images.githubusercontent.com/73474137/160019154-023241ac-0732-47ce-b8ee-4d77371c4595.png)
+
+⚠ La signature numérique ne garantit pas la confidentialité mais uniquement l'authenticité de l'auteur
+
+##### Le chiffrement hybride
+
+La cryptographie hybride, fait appel au chiffrement symétrique et asymétrique. Il est utilisé par example dans le protocole HTTPS, ou le logiciel PGP.
+
+***Le principe:***
+
+On utilise le chiffrement asymétrique, qui est très long pour s'échanger les clés secrètes utilisées dans le chiffrement symétrique. Ensuite toutes les autres communications se feront avec le chiffrement symétrique qui lui est beaucoup plus rapide.
+
+Pour optimiser la chose nous utilisons l'algorithme sécuriser pour passer les clés en toutes sécurité pour finalement utiliser l'algorithme rapid
+
+Par exemple, le protocole HTTPS pour HTTP Secure est un protocole d'échange d'informations entre un navigateur web et un serveur, il faut qu'il soit rapide. C'est pourquoi on utilise le chiffrement hybride. Une fois la clé de chiffrement symétrique échangée par chiffrement asymétrique (clé publique et clé privée) le navigateur et le serveur peuvent communiquer de manière sûre et plus rapide que s'ils faisaient du chiffrement symétrique lors de chaque échange.
+
+#### Non-réversible
+
+Autrement appellé aussi le hashage, que l'on crypte pour ne plus le décrypter (On l'appelle aussi une empreinte)
+
+A l'aide de l'algorithme md5 le texte ```Rendez-vous à 10:00 précise devant l'entrée.```nous donnerait ```a33570a5ec94f9daffa5ae154f781144```.
+
+Ce qui est bien avec ces algorithme c'est que si nous changeons une lettre le resultat final ne sera plus du tout le même, par example:
+
+```
+Rendez-vous à 11:00 précise devant l'entrée.
+```
+
+Nous donnera 
+
+```
+ce4e2b9750cb4844cf21b57f9f07400e
+```
+
+Nous pouvons remarquer que les deux hash ne sont pas du tout les même
+
+##### Utilité
+
+Un hash peu être laissé comme une empreite dans un logiciel, qu'on pourrait comparer après l'installation et s'assurer que nous n'avions pas installé un autre logiciel
+
+Il peut être aussi utiliser pour comparer et stocker des mots de passes dans la base de donnée
+
+##### Quelques algorithmes de hashage
+
+- MD5 et SHA1 (plus trop sûr)
+- SHA3, SHA256, SHA512 
+- BCrypt (Récent et très sûr)
