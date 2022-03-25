@@ -203,3 +203,49 @@ Nous essayons toutes les possibilites possible. **Aucun mot de passe ne peut ré
 Pour parvenir le rainbow tables attacs nous allons ajouter du sel dans l'enregistrement dans la base de données.
 
 Par example si nous utilisant le nom utilisateur ```toto```, mot de passe ```Salut!123``` et le sel en tant que ```@°ç11M```, donc nous stockons le sous la forme ```totoSalut!123@°ç11M``` qui nous donne avec le chiffrement SHA1 ```c0f766ae737dd0e70ed184c60ea2eda8cd781a92```. Si ```lulu``` à le même mot de passe, elle n'aura pas le même hash à cause du nom ```010d1505821af044bad7d29cadeaaabe525c4d85```
+
+### BCrypte
+
+La méthode de hashage qu'on utilise aujourd'hui plutôt que SHA-x ou le MD5. BCrypte à l'avantage de générer différent hash pour le même mot de passe. Le principal avantage de Bcrypt c’est son extrême lenteur qui fait que le brute force devient extrêmement lent et donc inutilisable.
+
+![image](https://user-images.githubusercontent.com/73474137/160185389-5d329958-7250-4f7c-8c4e-3e3faf232f87.png)
+
+### Signature numérique en détails
+
+![image](https://user-images.githubusercontent.com/73474137/160185570-066a41ea-93ad-42be-b3da-a5b021b83e0a.png)
+
+Example avec PGP:
+
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Voici le compte IBAN pour le versement : CH63 0900 0000 2500 9779 8
+-----BEGIN PGP SIGNATURE-----
+
+iQFEBAEBCgAuJxxGYWJpYW4gSMOqY2hlIDxmYWJpYW4uaGVjaGVAZ21haWwuY29t
+PgUCYc2wOQAKCRDFdIzJVQMixgKcB/9HQ9vC+2umrobGwBktSaRi8Xydp+vn8YQd
+q3Z9+HQGd2pLAvQGfCpAMfvw0nWYipYBl61itHgsXFUPjthB5wSmeGz3tLpI+i7/
+bkQ2BL9W+vncefMdtdBD3l8HIQ/kq2mXnv+42Rr31FyL0Ge/JcXXVEih4Hf2LMYw
+A+7NRs85IQq+vxtJ0+/dgRdxmScP63k5LZPlTNg1n3xL3CSSATj6Cj3MJFr7FjWZ
+PHjzRs+XASmdbYrHuAZRfZLdFBfvW3/ykxoCSqnwa64jgGE9OoAUUMZfO7Jf5Mpf
+ZP0rb1vyd640uaGD5mLVezoK9dsA3Y6mVGmpLjQteKe/t5yBO8K5
+=gsdw
+-----END PGP SIGNATURE-----
+```
+
+On distingue les éléments suivants :
+
+1. Le hachage utilisé pour créer l'empreinte.
+2. Le message en clair.
+3. Le chiffrement de l'empreinte.
+
+### Certificat numérique
+
+**Un certificat numérique**, ou appellé aussi une clé publique, pet être vu en tant qu'une carte d'identité numérique. Il est utilisé principalement pour **identifier et authentifier**, mais aussi pour le chiffrement.
+
+Un bon example est le protocole **HTTPS**, qui a le transfert sécurisé de données. C'est la version améiloré du protocole HTTP avec le chiffrement **SSL** ou **TLS**
+
+![image](https://user-images.githubusercontent.com/73474137/160186718-afd1a534-88af-4911-8095-39aa8fd51608.png)
+
+En résumé, on utilise le protocole HTTPS pour sécuriser les données échangées entre le navigateur et le serveur pour éviter qu'un "hacker" intercepte ces données telles que votre numéro de carte de crédit, vos informations personnelles, etc. lorsqu'elles sont envoyées au serveur.
