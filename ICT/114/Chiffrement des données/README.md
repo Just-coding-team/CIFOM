@@ -185,3 +185,21 @@ Il peut être aussi utiliser pour comparer et stocker des mots de passes dans la
 - MD5 et SHA1 (plus trop sûr)
 - SHA3, SHA256, SHA512 
 - BCrypt (Récent et très sûr)
+
+### Les attaques
+
+1. Attaque par dictionnaire ou "rainbow table"
+
+Il s'agit du premier type d'attaque, la plus rapide. Nous utilisant une table avec des mots de passe volé pour s'introduire dans un environement. On l'appelle des ***tbales arc-en-ciel** ou ***rainbow table***.
+
+![image](https://user-images.githubusercontent.com/73474137/160183071-6161a1db-c0b9-49ab-8f32-cd0e58c6969a.png)
+
+2. Attaque par brute force
+
+Nous essayons toutes les possibilites possible. **Aucun mot de passe ne peut résister à cette technique**, seulement les mots de passe plus complexe et long prendront plus de temps nécessaire.
+
+### Le sel
+
+Pour parvenir le rainbow tables attacs nous allons ajouter du sel dans l'enregistrement dans la base de données.
+
+Par example si nous utilisant le nom utilisateur ```toto```, mot de passe ```Salut!123``` et le sel en tant que ```@°ç11M```, donc nous stockons le sous la forme ```totoSalut!123@°ç11M``` qui nous donne avec le chiffrement SHA1 ```c0f766ae737dd0e70ed184c60ea2eda8cd781a92```. Si ```lulu``` à le même mot de passe, elle n'aura pas le même hash à cause du nom ```010d1505821af044bad7d29cadeaaabe525c4d85```
