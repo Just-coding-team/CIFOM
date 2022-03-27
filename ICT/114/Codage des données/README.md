@@ -19,7 +19,7 @@ Les chiffres: des symboles mathématiques, tel que des lettres
 
 Les nombres: une quantité ou une valeur et est formé d'un ou plusiers chiffres
 
-Numéro: un chiffre ou un nombre qui sert à indiquer la plave de quelqu'un ou quelque chose dans une série (Peut contenir des lettres ou separateur)
+Numéro: un chiffre ou un nombre qui sert à indiquer la place de quelqu'un ou quelque chose dans une série (Peut contenir des lettres ou separateur)
 
 ### Opérations binaires
 
