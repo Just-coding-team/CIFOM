@@ -7,3 +7,5 @@
 - Pour les champ calculé ```nom: expression```
 - Les requêtes paramètré ```[question]``` dans le où
 - MPD -> DICO MLD -> projet
+- Creation état mettre l'id une fois pour après la macro
+- [CurrentProject].[Path], la path du projet
