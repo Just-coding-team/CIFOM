@@ -14,3 +14,4 @@ Voici un petit memo pour le test ICT
 - Le teux de compression est égale à 1 - (taille final / taille initiale)
 - Le nombre de bits dans un dictionnaire doit être le plus petit et les lettres sont encodé sur 8 bits
 - Pour la taille finale nous mutlpliant la taille du dictionnaire et l'addition des nombres des bits surs lesquelles sont encoddées les lettres et les chiffres
+- Pour mettre un nombre en negatif on l'inverse puis on ajoute 1
