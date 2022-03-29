@@ -9,3 +9,4 @@
 - MPD -> DICO MLD -> projet
 - Creation état mettre l'id une fois pour après la macro
 - [CurrentProject].[Path], la path du projet
+- Pour les sous-formulaires dans les sous-formualire utiliser ```[Fomulaire]![Nom1]![Nom2]![Valeur]```
