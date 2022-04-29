@@ -1,0 +1,14 @@
+main {
+    width: calc(100% - 80px);
+    height: auto;
+    margin-left: 40px;
+    margin-right: 40px;
+    position: relative;
+    top: 150px;
+}
+h1 {
+    font-size: 45px;
+}
+p {
+    font-size: 27px;
+}
