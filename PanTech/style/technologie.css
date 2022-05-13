@@ -1,0 +1,46 @@
+main {
+    width: calc(100% - 100px);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+h1 {
+    font-size: 45px;
+}
+.containerFlex {
+    display: flex;
+    justify-content: space-between;
+}
+article {
+    width: 47%;
+    display: grid;
+    border: 2px solid rgb(92, 92, 92);
+    border-radius: 10px;
+    padding: 5px;
+    grid-template-columns: 5fr 6fr;
+}
+article img {
+    width: 100%;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+article > div {
+    padding: 15px;
+}
+@media only screen and (max-width: 1007px) {
+    h1 {
+        font-size: 35px;
+    }
+    .containerFlex {
+        width: 100%;
+        flex-direction: column;
+        gap: 50px;
+    }
+    article {
+        width: 100%;
+    }
+    p {
+        font-size: 17.5px;
+    }
+}

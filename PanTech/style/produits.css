@@ -1,0 +1,62 @@
+main {
+    width: calc(100% - 100px);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h1 {
+    font-size: 45px;
+}
+.containerGrid {
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(3, 1fr);
+}
+figure {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-self: center;
+}
+figure:nth-of-type(2), figure:nth-of-type(5) {
+    align-items: center;
+}
+figure:nth-of-type(3), figure:nth-of-type(6) {
+    align-items: end;
+}
+figcaption {
+    text-align: center;
+    width: 80%;
+    line-height: 50px;
+    border: 1px rgb(110, 110, 110) solid;
+    border-top: none;
+    border-radius: 0px 0px 10px 10px;
+}
+img {
+    width: 80%;
+}
+@media only screen and (max-width: 1007px) {
+    h1 {
+        font-size: 35px;
+    }
+    figure:nth-of-type(odd) {
+        align-items: start;
+    }
+    figure:nth-of-type(even) {
+        align-items: end;
+    }
+    .containerGrid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    .containerGrid {
+        grid-template-columns: 1fr;
+    }
+    figure {
+        align-items: start !important;
+    }
+    main {
+        margin-bottom: 75px;
+    }
+}

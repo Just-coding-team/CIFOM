@@ -2,7 +2,6 @@ main {
     width: calc(100% - 100px);
     margin-left: 50px;
     margin-right: 50px;
-    margin-top: 175px;
 }
 h1 {
     font-size: 45px;
@@ -32,7 +31,15 @@ img[alt="Panais"] {
     h1 {
         font-size: 35px;
     }
-    main {
-        margin-top: 125px;
+}
+
+@media only screen and (max-width: 640px) {
+    img[alt="Panais"] {
+        display: none;
+    }
+    .containerGrid {
+        display: grid;
+        grid-auto-columns: 1fr;
+        grid-template-areas: "text";
     }
 }

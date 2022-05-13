@@ -11,6 +11,9 @@
     font-family: 'Smooch Sans', sans-serif;
     color: black;
 }
+main {
+    grid-area: main;
+}
 #mainHeader {
     height: 140px;
     width: calc(100% - 60px);
@@ -25,6 +28,7 @@
     margin-right: 30px;
     background: white;
     z-index: 3;
+    grid-area: header;
 }
 header img {
     width: 200px;
@@ -96,9 +100,23 @@ footer {
     font-size: 40px;
     background-color: var(--green);
     color: #fff;
+    grid-area: footer;
 }
-body {
+body, html {
     margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+}
+#mainGrid {
+    display: grid;
+    min-height: 100vh;
+    grid-template-columns: auto;
+    grid-template-areas: 
+        "header"
+        "main"
+        "footer";
+    grid-auto-rows: 140px 1fr 75px;
 }
 ::-webkit-scrollbar {
     width: 10px;
@@ -127,5 +145,55 @@ body {
         font-size: 20px;
         height: 35px;
         line-height: 35px;
+    }
+    #mainGrid {
+        grid-auto-rows: 100px 1fr 35px;
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    #mainHeader {
+        display: flex;
+        flex-direction: column-reverse;
+        gap: 80px;
+        height: 260px;
+        padding: 0px;
+        align-items: center;
+    }
+    header ul {
+        -webkit-transform-origin-x: 0px;
+        transform: scale(0.55);
+        -webkit-transform-origin-x: unset;
+        flex-direction: column;
+        height: 50%;
+        width: 150%;
+        margin-bottom: 30px;
+    }
+    header ul li {
+        width: 100%;
+    }
+    header ul li a {
+        width: 100%;
+    }
+    header img {
+        width: 200px;
+    }
+    footer {
+        font-size: 20px;
+        height: 35px;
+        line-height: 35px;
+    }
+    #mainGrid {
+        grid-auto-rows: 260px 1fr 35px;
+    }
+
+    header ul li > a::after {
+        left: 305px;
+    }
+    header ul li:nth-child(1) > a::after {
+        left: 307.5px;
+    }
+    header ul li:nth-child(3) > a::after {
+        left: 287.5px;
     }
 }
