@@ -14,21 +14,3 @@
   ├─xxx
   └─xxx
 </pre>
-2.2 Fichier dans les dossiers roots
-  - Nom du travail pratique
-  - ICT-XXX
- 
-2.3 README dans le dossier root
-  - Doit expliquer les objectifs
-   
-> S'il vous plaît de garder un ordre
-
-## Sommaire
-
-1. ICT
-- 104
-- 114
-- 123
-2. Maturité
-- FRA
-> Modifier le en cas de besoin
