@@ -1,0 +1,333 @@
+[15-Aug-2022 08:02:45 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 3
+[15-Aug-2022 08:03:00 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 2
+[15-Aug-2022 08:03:01 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 2
+[15-Aug-2022 08:03:15 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 2
+[15-Aug-2022 08:03:17 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 2
+[15-Aug-2022 08:03:18 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 2
+[15-Aug-2022 08:03:18 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 2
+[15-Aug-2022 08:03:54 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 1
+[15-Aug-2022 08:03:55 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 1
+[15-Aug-2022 08:03:56 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 1
+[15-Aug-2022 08:03:58 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 1
+[15-Aug-2022 08:03:58 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 1
+[15-Aug-2022 08:03:58 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 1
+[15-Aug-2022 08:04:05 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 1
+[15-Aug-2022 08:27:22 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 1
+[15-Aug-2022 08:31:04 UTC] PHP Parse error:  syntax error, unexpected 'in' (T_STRING), expecting ';' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 8
+[15-Aug-2022 08:31:11 UTC] PHP Parse error:  syntax error, unexpected 'in' (T_STRING), expecting ';' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 8
+[15-Aug-2022 08:31:13 UTC] PHP Parse error:  syntax error, unexpected 'in' (T_STRING), expecting ';' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 8
+[15-Aug-2022 08:33:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 13
+[15-Aug-2022 08:35:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 18
+[15-Aug-2022 08:46:44 UTC] PHP Parse error:  syntax error, unexpected 'display' (T_STRING) in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 10
+[15-Aug-2022 08:52:43 UTC] PHP Parse error:  syntax error, unexpected 'flex' (T_STRING) in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 11
+[15-Aug-2022 08:52:44 UTC] PHP Parse error:  syntax error, unexpected 'flex' (T_STRING) in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 11
+[15-Aug-2022 08:57:10 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 23
+[15-Aug-2022 09:07:23 UTC] PHP Notice:  Undefined variable: limit in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 13
+[15-Aug-2022 09:07:23 UTC] PHP Notice:  Undefined variable: limit in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 15
+[15-Aug-2022 09:07:23 UTC] PHP Notice:  Undefined variable: limit in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 15
+[15-Aug-2022 09:07:23 UTC] PHP Notice:  Undefined variable: limit in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\nombreMdr\index.php on line 13
+[15-Aug-2022 09:23:59 UTC] PHP Notice:  Use of undefined constant tache - assumed 'tache' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 3
+[15-Aug-2022 09:23:59 UTC] PHP Notice:  Use of undefined constant duree - assumed 'duree' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 3
+[15-Aug-2022 09:23:59 UTC] PHP Notice:  Use of undefined constant tache - assumed 'tache' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 4
+[15-Aug-2022 09:23:59 UTC] PHP Notice:  Use of undefined constant duree - assumed 'duree' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 4
+[15-Aug-2022 09:23:59 UTC] PHP Notice:  Use of undefined constant tache - assumed 'tache' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 5
+[15-Aug-2022 09:23:59 UTC] PHP Notice:  Use of undefined constant duree - assumed 'duree' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 5
+[15-Aug-2022 09:23:59 UTC] PHP Notice:  Use of undefined constant tache - assumed 'tache' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 6
+[15-Aug-2022 09:23:59 UTC] PHP Notice:  Use of undefined constant duree - assumed 'duree' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 6
+[15-Aug-2022 09:23:59 UTC] PHP Notice:  Array to string conversion in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 10
+[15-Aug-2022 09:24:17 UTC] PHP Notice:  Use of undefined constant tache - assumed 'tache' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 3
+[15-Aug-2022 09:24:17 UTC] PHP Notice:  Use of undefined constant duree - assumed 'duree' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 3
+[15-Aug-2022 09:24:17 UTC] PHP Notice:  Use of undefined constant tache - assumed 'tache' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 4
+[15-Aug-2022 09:24:17 UTC] PHP Notice:  Use of undefined constant duree - assumed 'duree' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 4
+[15-Aug-2022 09:24:17 UTC] PHP Notice:  Use of undefined constant tache - assumed 'tache' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 5
+[15-Aug-2022 09:24:17 UTC] PHP Notice:  Use of undefined constant duree - assumed 'duree' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 5
+[15-Aug-2022 09:24:17 UTC] PHP Notice:  Use of undefined constant tache - assumed 'tache' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 6
+[15-Aug-2022 09:24:17 UTC] PHP Notice:  Use of undefined constant duree - assumed 'duree' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 6
+[15-Aug-2022 09:24:19 UTC] PHP Notice:  Use of undefined constant tache - assumed 'tache' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 3
+[15-Aug-2022 09:24:19 UTC] PHP Notice:  Use of undefined constant duree - assumed 'duree' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 3
+[15-Aug-2022 09:24:19 UTC] PHP Notice:  Use of undefined constant tache - assumed 'tache' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 4
+[15-Aug-2022 09:24:19 UTC] PHP Notice:  Use of undefined constant duree - assumed 'duree' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 4
+[15-Aug-2022 09:24:19 UTC] PHP Notice:  Use of undefined constant tache - assumed 'tache' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 5
+[15-Aug-2022 09:24:19 UTC] PHP Notice:  Use of undefined constant duree - assumed 'duree' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 5
+[15-Aug-2022 09:24:19 UTC] PHP Notice:  Use of undefined constant tache - assumed 'tache' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 6
+[15-Aug-2022 09:24:19 UTC] PHP Notice:  Use of undefined constant duree - assumed 'duree' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 6
+[15-Aug-2022 09:24:34 UTC] PHP Notice:  Use of undefined constant tache - assumed 'tache' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 3
+[15-Aug-2022 09:24:34 UTC] PHP Notice:  Use of undefined constant duree - assumed 'duree' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 3
+[15-Aug-2022 09:24:34 UTC] PHP Notice:  Use of undefined constant tache - assumed 'tache' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 4
+[15-Aug-2022 09:24:34 UTC] PHP Notice:  Use of undefined constant duree - assumed 'duree' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 4
+[15-Aug-2022 09:24:34 UTC] PHP Notice:  Use of undefined constant tache - assumed 'tache' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 5
+[15-Aug-2022 09:24:34 UTC] PHP Notice:  Use of undefined constant duree - assumed 'duree' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 5
+[15-Aug-2022 09:24:34 UTC] PHP Notice:  Use of undefined constant tache - assumed 'tache' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 6
+[15-Aug-2022 09:24:34 UTC] PHP Notice:  Use of undefined constant duree - assumed 'duree' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 6
+[15-Aug-2022 09:29:31 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 11
+[15-Aug-2022 09:29:39 UTC] PHP Fatal error:  Call to undefined function len() in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 9
+[15-Aug-2022 09:29:39 UTC] PHP Fatal error:  Call to undefined function len() in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 9
+[15-Aug-2022 09:30:24 UTC] PHP Notice:  Array to string conversion in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 10
+[15-Aug-2022 09:30:24 UTC] PHP Notice:  Array to string conversion in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 10
+[15-Aug-2022 09:30:24 UTC] PHP Notice:  Array to string conversion in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 10
+[15-Aug-2022 09:30:24 UTC] PHP Notice:  Array to string conversion in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\ListeMdr\index.php on line 10
+[22-Aug-2022 07:42:11 UTC] PHP Deprecated:  Return type of Symfony\Component\Console\Helper\HelperSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Helper/HelperSet.php on line 112
+[22-Aug-2022 07:42:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: array_merge() does not accept unknown named parameters in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/DefaultPolicy.php:84
+Stack trace:
+#0 [internal function]: array_merge(steevedroz/fakedb: Array)
+#1 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/DefaultPolicy.php(84): call_user_func_array('array_merge', Array)
+#2 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Installer.php(1167): Composer\DependencyResolver\DefaultPolicy->selectPreferredPackages(Object(Composer\DependencyResolver\Pool), Array, Array)
+#3 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Installer.php(626): Composer\Installer->processPackageUrls(Object(Composer\DependencyResolver\Pool), Object(Composer\DependencyResolver\DefaultPolicy), Object(Composer\Repository\InstalledFilesystemRepository), Array)
+#4 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Installer.php(229): Composer\Installer->doInstall(Object(Composer\Repository\InstalledFilesystemRepository), Object(Composer\Repository\CompositeRepository), Object(Composer\Repository\PlatformRepository), Array)
+#5 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Command/RequireCommand.php(196): Composer\Installer->run()
+#6 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Command/Command.php(245): Composer\Command\RequireCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#7 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Application.php(835): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Application.php(185): Symfony\Component\Console\Application->doRunCommand(Object(Composer\Command\RequireCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Console/Application.php(258): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Application.php(117): Composer\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#11 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Console/Application.php(104): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#12 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/bin/composer(56): Composer\Console\Application->run()
+#13 C:\Users\JasiukiewiczT\Desktop\laragon-portable\bin\composer\composer.phar(24): require('phar://C:/Users...')
+#14 {main}
+  thrown in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/DefaultPolicy.php on line 84
+[22-Aug-2022 07:46:13 UTC] PHP Deprecated:  Return type of Symfony\Component\Console\Helper\HelperSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Helper/HelperSet.php on line 112
+[22-Aug-2022 07:47:38 UTC] PHP Deprecated:  Return type of Symfony\Component\Console\Helper\HelperSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Helper/HelperSet.php on line 112
+[22-Aug-2022 07:47:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: array_merge() does not accept unknown named parameters in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/DefaultPolicy.php:84
+Stack trace:
+#0 [internal function]: array_merge(steevedroz/nano-framework: Array)
+#1 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/DefaultPolicy.php(84): call_user_func_array('array_merge', Array)
+#2 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/Solver.php(384): Composer\DependencyResolver\DefaultPolicy->selectPreferredPackages(Object(Composer\DependencyResolver\Pool), Array, Array, 'steevedroz/nano...')
+#3 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/Solver.php(736): Composer\DependencyResolver\Solver->selectAndInstall(1, Array, Array, Object(Composer\DependencyResolver\GenericRule))
+#4 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/Solver.php(228): Composer\DependencyResolver\Solver->runSat(Array)
+#5 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Installer.php(475): Composer\DependencyResolver\Solver->solve(Object(Composer\DependencyResolver\Request), false)
+#6 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Installer.php(229): Composer\Installer->doInstall(Object(Composer\Repository\InstalledFilesystemRepository), Object(Composer\Repository\CompositeRepository), Object(Composer\Repository\PlatformRepository), Array)
+#7 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Command/RequireCommand.php(196): Composer\Installer->run()
+#8 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Command/Command.php(245): Composer\Command\RequireCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Application.php(835): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Application.php(185): Symfony\Component\Console\Application->doRunCommand(Object(Composer\Command\RequireCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#11 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Console/Application.php(258): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#12 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Application.php(117): Composer\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Console/Application.php(104): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#14 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/bin/composer(56): Composer\Console\Application->run()
+#15 C:\Users\JasiukiewiczT\Desktop\laragon-portable\bin\composer\composer.phar(24): require('phar://C:/Users...')
+#16 {main}
+  thrown in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/DefaultPolicy.php on line 84
+[22-Aug-2022 07:47:56 UTC] PHP Deprecated:  Return type of Symfony\Component\Console\Helper\HelperSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Helper/HelperSet.php on line 112
+[22-Aug-2022 07:48:03 UTC] PHP Fatal error:  Uncaught ArgumentCountError: array_merge() does not accept unknown named parameters in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/DefaultPolicy.php:84
+Stack trace:
+#0 [internal function]: array_merge(steevedroz/nano-framework: Array)
+#1 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/DefaultPolicy.php(84): call_user_func_array('array_merge', Array)
+#2 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/Solver.php(384): Composer\DependencyResolver\DefaultPolicy->selectPreferredPackages(Object(Composer\DependencyResolver\Pool), Array, Array, 'steevedroz/nano...')
+#3 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/Solver.php(736): Composer\DependencyResolver\Solver->selectAndInstall(1, Array, Array, Object(Composer\DependencyResolver\GenericRule))
+#4 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/Solver.php(228): Composer\DependencyResolver\Solver->runSat(Array)
+#5 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Installer.php(475): Composer\DependencyResolver\Solver->solve(Object(Composer\DependencyResolver\Request), false)
+#6 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Installer.php(229): Composer\Installer->doInstall(Object(Composer\Repository\InstalledFilesystemRepository), Object(Composer\Repository\CompositeRepository), Object(Composer\Repository\PlatformRepository), Array)
+#7 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Command/RequireCommand.php(196): Composer\Installer->run()
+#8 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Command/Command.php(245): Composer\Command\RequireCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Application.php(835): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Application.php(185): Symfony\Component\Console\Application->doRunCommand(Object(Composer\Command\RequireCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#11 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Console/Application.php(258): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#12 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Application.php(117): Composer\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Console/Application.php(104): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#14 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/bin/composer(56): Composer\Console\Application->run()
+#15 C:\Users\JasiukiewiczT\Desktop\laragon-portable\bin\composer\composer.phar(24): require('phar://C:/Users...')
+#16 {main}
+  thrown in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/DefaultPolicy.php on line 84
+[22-Aug-2022 07:48:16 UTC] PHP Deprecated:  Return type of Symfony\Component\Console\Helper\HelperSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Helper/HelperSet.php on line 112
+[22-Aug-2022 07:48:25 UTC] PHP Fatal error:  Uncaught ArgumentCountError: array_merge() does not accept unknown named parameters in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/DefaultPolicy.php:84
+Stack trace:
+#0 [internal function]: array_merge(steevedroz/nano-framework: Array)
+#1 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/DefaultPolicy.php(84): call_user_func_array('array_merge', Array)
+#2 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/Solver.php(384): Composer\DependencyResolver\DefaultPolicy->selectPreferredPackages(Object(Composer\DependencyResolver\Pool), Array, Array, 'steevedroz/nano...')
+#3 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/Solver.php(736): Composer\DependencyResolver\Solver->selectAndInstall(1, Array, Array, Object(Composer\DependencyResolver\GenericRule))
+#4 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/Solver.php(228): Composer\DependencyResolver\Solver->runSat(Array)
+#5 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Installer.php(475): Composer\DependencyResolver\Solver->solve(Object(Composer\DependencyResolver\Request), false)
+#6 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Installer.php(229): Composer\Installer->doInstall(Object(Composer\Repository\InstalledFilesystemRepository), Object(Composer\Repository\CompositeRepository), Object(Composer\Repository\PlatformRepository), Array)
+#7 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Command/RequireCommand.php(196): Composer\Installer->run()
+#8 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Command/Command.php(245): Composer\Command\RequireCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Application.php(835): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Application.php(185): Symfony\Component\Console\Application->doRunCommand(Object(Composer\Command\RequireCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#11 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Console/Application.php(258): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#12 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Application.php(117): Composer\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Console/Application.php(104): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#14 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/bin/composer(56): Composer\Console\Application->run()
+#15 C:\Users\JasiukiewiczT\Desktop\laragon-portable\bin\composer\composer.phar(24): require('phar://C:/Users...')
+#16 {main}
+  thrown in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/DefaultPolicy.php on line 84
+[22-Aug-2022 07:49:03 UTC] PHP Deprecated:  Return type of Symfony\Component\Console\Helper\HelperSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Helper/HelperSet.php on line 112
+[22-Aug-2022 07:49:33 UTC] PHP Deprecated:  Return type of Symfony\Component\Console\Helper\HelperSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Helper/HelperSet.php on line 112
+[22-Aug-2022 07:49:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: array_merge() does not accept unknown named parameters in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/DefaultPolicy.php:84
+Stack trace:
+#0 [internal function]: array_merge(steevedroz/fakedb: Array)
+#1 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/DefaultPolicy.php(84): call_user_func_array('array_merge', Array)
+#2 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Command/ShowCommand.php(563): Composer\DependencyResolver\DefaultPolicy->selectPreferredPackages(Object(Composer\DependencyResolver\Pool), Array, Array)
+#3 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Command/ShowCommand.php(902): Composer\Command\ShowCommand->getPackage(Object(Composer\Repository\InstalledFilesystemRepository), Object(Composer\Repository\InstalledFilesystemRepository), 'steevedroz/fake...', '^2.0.0')
+#4 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Command/ShowCommand.php(806): Composer\Command\ShowCommand->addTree('steevedroz/fake...', Object(Composer\Package\Link), Object(Composer\Repository\InstalledFilesystemRepository), Object(Composer\Repository\InstalledFilesystemRepository), Array)
+#5 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Command/ShowCommand.php(256): Composer\Command\ShowCommand->generatePackageTree(Object(Composer\Package\CompletePackage), Object(Composer\Repository\InstalledFilesystemRepository), Object(Composer\Repository\InstalledFilesystemRepository))
+#6 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Command/Command.php(245): Composer\Command\ShowCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#7 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Application.php(835): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Application.php(185): Symfony\Component\Console\Application->doRunCommand(Object(Composer\Command\ShowCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Console/Application.php(258): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Application.php(117): Composer\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#11 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Console/Application.php(104): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#12 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/bin/composer(56): Composer\Console\Application->run()
+#13 C:\Users\JasiukiewiczT\Desktop\laragon-portable\bin\composer\composer.phar(24): require('phar://C:/Users...')
+#14 {main}
+  thrown in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/DefaultPolicy.php on line 84
+[22-Aug-2022 07:52:25 UTC] PHP Deprecated:  Return type of Symfony\Component\Console\Helper\HelperSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Helper/HelperSet.php on line 112
+[22-Aug-2022 07:52:52 UTC] PHP Deprecated:  Return type of Symfony\Component\Console\Helper\HelperSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Helper/HelperSet.php on line 112
+[22-Aug-2022 07:53:00 UTC] PHP Fatal error:  Uncaught ArgumentCountError: array_merge() does not accept unknown named parameters in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/DefaultPolicy.php:84
+Stack trace:
+#0 [internal function]: array_merge(guzzlehttp/guzzle: Array)
+#1 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/DefaultPolicy.php(84): call_user_func_array('array_merge', Array)
+#2 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/Solver.php(384): Composer\DependencyResolver\DefaultPolicy->selectPreferredPackages(Object(Composer\DependencyResolver\Pool), Array, Array, 'guzzlehttp/guzz...')
+#3 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/Solver.php(736): Composer\DependencyResolver\Solver->selectAndInstall(1, Array, Array, Object(Composer\DependencyResolver\GenericRule))
+#4 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/Solver.php(228): Composer\DependencyResolver\Solver->runSat(Array)
+#5 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Installer.php(475): Composer\DependencyResolver\Solver->solve(Object(Composer\DependencyResolver\Request), false)
+#6 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Installer.php(229): Composer\Installer->doInstall(Object(Composer\Repository\InstalledFilesystemRepository), Object(Composer\Repository\CompositeRepository), Object(Composer\Repository\PlatformRepository), Array)
+#7 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Command/RequireCommand.php(196): Composer\Installer->run()
+#8 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Command/Command.php(245): Composer\Command\RequireCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Application.php(835): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Application.php(185): Symfony\Component\Console\Application->doRunCommand(Object(Composer\Command\RequireCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#11 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Console/Application.php(258): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#12 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Application.php(117): Composer\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/Console/Application.php(104): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#14 phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/bin/composer(56): Composer\Console\Application->run()
+#15 C:\Users\JasiukiewiczT\Desktop\laragon-portable\bin\composer\composer.phar(24): require('phar://C:/Users...')
+#16 {main}
+  thrown in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/src/Composer/DependencyResolver/DefaultPolicy.php on line 84
+[22-Aug-2022 07:53:08 UTC] PHP Deprecated:  Return type of Symfony\Component\Console\Helper\HelperSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Helper/HelperSet.php on line 112
+[22-Aug-2022 07:54:11 UTC] PHP Deprecated:  Return type of Symfony\Component\Console\Helper\HelperSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in phar://C:/Users/JasiukiewiczT/Desktop/laragon-portable/bin/composer/composer.phar/vendor/symfony/console/Helper/HelperSet.php on line 112
+[29-Aug-2022 07:14:14 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\Article.php on line 11
+[29-Aug-2022 07:14:16 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\Article.php on line 11
+[29-Aug-2022 07:14:21 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\Article.php on line 11
+[29-Aug-2022 07:14:22 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\Article.php on line 11
+[29-Aug-2022 07:14:24 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\Article.php on line 11
+[29-Aug-2022 07:14:26 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\Article.php on line 11
+[29-Aug-2022 07:18:15 UTC] PHP Warning:  file_get_contents(C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Views\article\create.html): Failed to open stream: No such file or directory in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\View.php on line 23
+[29-Aug-2022 09:10:28 UTC] PHP Warning:  Undefined array key "title" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\Article.php on line 19
+[29-Aug-2022 09:10:28 UTC] PHP Warning:  Undefined array key "content" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\Article.php on line 20
+[29-Aug-2022 09:10:28 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\View.php on line 61
+[29-Aug-2022 09:10:28 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\View.php on line 61
+[29-Aug-2022 09:10:28 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\View.php on line 61
+[29-Aug-2022 09:10:28 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\View.php on line 61
+[05-Sep-2022 08:12:59 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function App\Controllers\Article::delete(), 0 passed and exactly 1 expected in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\Article.php:23
+Stack trace:
+#0 [internal function]: App\Controllers\Article->delete()
+#1 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Route.php(123): call_user_func_array(Array, Array)
+#2 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\index.php(34): SteeveDroz\NanoFramework\Route::display()
+#3 {main}
+  thrown in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\Article.php on line 23
+[12-Sep-2022 08:34:02 UTC] PHP Fatal error:  Uncaught Error: Class "\App\Controllers\Utilisateur" not found in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Route.php:120
+Stack trace:
+#0 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\index.php(34): SteeveDroz\NanoFramework\Route::display()
+#1 {main}
+  thrown in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Route.php on line 120
+[12-Sep-2022 08:35:11 UTC] PHP Fatal error:  Uncaught Error: Class "\App\Controllers\Utilisateur" not found in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Route.php:120
+Stack trace:
+#0 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\index.php(34): SteeveDroz\NanoFramework\Route::display()
+#1 {main}
+  thrown in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Route.php on line 120
+[12-Sep-2022 08:44:40 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class App\Controllers\User does not have a method "create" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Route.php:123
+Stack trace:
+#0 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Route.php(123): call_user_func_array(Array, Array)
+#1 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\index.php(34): SteeveDroz\NanoFramework\Route::display()
+#2 {main}
+  thrown in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Route.php on line 123
+[12-Sep-2022 09:47:32 UTC] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, string given in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\View.php:55
+Stack trace:
+#0 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\View.php(55): array_merge(Array, 'The confirmatio...')
+#1 [internal function]: SteeveDroz\NanoFramework\View->SteeveDroz\NanoFramework\{closure}(Array)
+#2 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\View.php(52): preg_replace_callback('#\\{\\s*errors\\s*...', Object(Closure), '<form method="p...')
+#3 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\View.php(23): SteeveDroz\NanoFramework\View->parse('<form method="p...', Array, Array)
+#4 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Controller.php(45): SteeveDroz\NanoFramework\View->parseFile('C:\\Users\\Jasiuk...', Array, Array)
+#5 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php(48): SteeveDroz\NanoFramework\Controller->fragment('user/_form.html')
+#6 [internal function]: App\Controllers\User->create()
+#7 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Route.php(123): call_user_func_array(Array, Array)
+#8 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\index.php(34): SteeveDroz\NanoFramework\Route::display()
+#9 {main}
+  thrown in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\View.php on line 55
+[26-Sep-2022 06:57:26 UTC] PHP Warning:  Undefined array key "conditions" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php on line 39
+[26-Sep-2022 06:58:06 UTC] PHP Warning:  Undefined array key "conditions" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php on line 39
+[26-Sep-2022 06:58:06 UTC] PHP Warning:  Undefined array key "conditions" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php on line 40
+[26-Sep-2022 06:58:09 UTC] PHP Warning:  Undefined array key "conditions" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php on line 39
+[26-Sep-2022 06:58:09 UTC] PHP Warning:  Undefined array key "conditions" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php on line 40
+[26-Sep-2022 06:58:10 UTC] PHP Warning:  Undefined array key "conditions" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php on line 39
+[26-Sep-2022 06:58:10 UTC] PHP Warning:  Undefined array key "conditions" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php on line 40
+[26-Sep-2022 07:31:00 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php on line 77
+[26-Sep-2022 07:31:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\View.php on line 61
+[26-Sep-2022 07:31:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\View.php on line 61
+[17-Oct-2022 07:12:44 UTC] PHP Warning:  Undefined array key "admin" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php on line 18
+[17-Oct-2022 07:19:25 UTC] PHP Warning:  Undefined variable $usrs in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php on line 25
+[17-Oct-2022 09:33:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Controllers\UserModel" not found in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\BaseController.php:14
+Stack trace:
+#0 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php(11): App\Controllers\BaseController->__construct()
+#1 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Route.php(120): App\Controllers\User->__construct()
+#2 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\index.php(34): SteeveDroz\NanoFramework\Route::display()
+#3 {main}
+  thrown in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\BaseController.php on line 14
+[17-Oct-2022 09:34:42 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:39:01 UTC] PHP Fatal error:  Uncaught TypeError: SteeveDroz\NanoFramework\Model::validate(): Argument #3 ($errors) must be of type array, null given, called in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php on line 32 and defined in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Model.php:99
+Stack trace:
+#0 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php(32): SteeveDroz\NanoFramework\Model->validate(Array, 'login', NULL)
+#1 [internal function]: App\Controllers\User->login()
+#2 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Route.php(123): call_user_func_array(Array, Array)
+#3 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\index.php(34): SteeveDroz\NanoFramework\Route::display()
+#4 {main}
+  thrown in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Model.php on line 99
+[17-Oct-2022 09:39:20 UTC] PHP Fatal error:  Uncaught TypeError: SteeveDroz\NanoFramework\Model::validate(): Argument #3 ($errors) must be of type array, null given, called in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php on line 31 and defined in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Model.php:99
+Stack trace:
+#0 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php(31): SteeveDroz\NanoFramework\Model->validate(Array, 'login', NULL)
+#1 [internal function]: App\Controllers\User->login()
+#2 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Route.php(123): call_user_func_array(Array, Array)
+#3 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\index.php(34): SteeveDroz\NanoFramework\Route::display()
+#4 {main}
+  thrown in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Model.php on line 99
+[17-Oct-2022 09:39:34 UTC] PHP Fatal error:  Uncaught TypeError: SteeveDroz\NanoFramework\Model::validate(): Argument #3 ($errors) must be of type array, null given, called in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php on line 31 and defined in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Model.php:99
+Stack trace:
+#0 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php(31): SteeveDroz\NanoFramework\Model->validate(Array, 'login', NULL)
+#1 [internal function]: App\Controllers\User->login()
+#2 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Route.php(123): call_user_func_array(Array, Array)
+#3 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\index.php(34): SteeveDroz\NanoFramework\Route::display()
+#4 {main}
+  thrown in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Model.php on line 99
+[17-Oct-2022 09:39:42 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:42:04 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:42:04 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:42:42 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:42:42 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:43:01 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:43:01 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:43:13 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:43:13 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:43:18 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:43:18 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:43:46 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:43:49 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:44:04 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:44:09 UTC] PHP Fatal error:  Class App\Models\ArticleModel contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (SteeveDroz\NanoUser\UserValidatorInterface::validateUser) in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\ArticleModel.php on line 5
+[17-Oct-2022 09:44:47 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:45:20 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:46:07 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:46:07 UTC] PHP Fatal error:  Uncaught TypeError: SteeveDroz\NanoUser\Auth::login(): Argument #1 ($user) must be of type array, bool given, called in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php on line 32 and defined in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-user\lib\Auth.php:31
+Stack trace:
+#0 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Controllers\User.php(32): SteeveDroz\NanoUser\Auth->login(false)
+#1 [internal function]: App\Controllers\User->login()
+#2 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Route.php(123): call_user_func_array(Array, Array)
+#3 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\index.php(34): SteeveDroz\NanoFramework\Route::display()
+#4 {main}
+  thrown in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-user\lib\Auth.php on line 31
+[17-Oct-2022 09:47:19 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 52
+[17-Oct-2022 09:47:56 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 53
+[17-Oct-2022 09:48:09 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 72
+[17-Oct-2022 09:48:36 UTC] PHP Warning:  Undefined array key "username" in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\app\Models\UserModel.php on line 71
+[17-Oct-2022 09:49:13 UTC] PHP Fatal error:  Uncaught Error: Class "\App\Controllers\Logout" not found in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Route.php:120
+Stack trace:
+#0 C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\index.php(34): SteeveDroz\NanoFramework\Route::display()
+#1 {main}
+  thrown in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\blog\vendor\steevedroz\nano-framework\lib\Route.php on line 120
+[24-Oct-2022 07:31:50 UTC] PHP Warning:  require(C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\animeaux/vendor/autoload.php): Failed to open stream: No such file or directory in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\animeaux\index.php on line 7
+[24-Oct-2022 07:31:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\animeaux/vendor/autoload.php' (include_path='.;C:/Users/JasiukiewiczT/Desktop/laragon-portable/etc/php/pear') in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\animeaux\index.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\animeaux\index.php on line 7
+[24-Oct-2022 07:32:41 UTC] PHP Warning:  require(C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\animeaux/vendor/autoload.php): Failed to open stream: No such file or directory in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\animeaux\index.php on line 7
+[24-Oct-2022 07:32:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\animeaux/vendor/autoload.php' (include_path='.;C:/Users/JasiukiewiczT/Desktop/laragon-portable/etc/php/pear') in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\animeaux\index.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\Users\JasiukiewiczT\Desktop\laragon-portable\www\animeaux\index.php on line 7
