@@ -121,4 +121,64 @@ Dans le cas de projet important le MOE peut être nommer une **direction de proj
 
 ## Hermes
 
-Une méthode de gestion de projet informatique, de dévloppement, ainsi que d'adoption. (p. 15)
+Une méthode de gestion de projet informatique, de dévloppement, ainsi que d'adoption. 
+
+<p align=center>  
+  <br>
+  <img src="https://user-images.githubusercontent.com/73474137/212499487-be19e3de-93d1-4ab1-a4e5-8311ce6a01f1.png"><br>
+  <i>~ les 4 phases d'HERMES</i><br>
+</p>
+
+HERMES distingue plusieurs rôles pour mener au mieux le projet et cela peut verier en fonction des besoins...
+
+<p align=center>  
+  <br>
+  <img src="https://user-images.githubusercontent.com/73474137/212499666-2a7bc964-debd-4da0-b370-49ba7a2f612a.png"><br>
+  <i>~ example de rôles dans un projet HERMES minimale</i><br>
+</p>
+
+Chaque tâche doit mener à un résultat qui a un rôle respensable et fait objet d'une description. Lse tâches portant sur le même thème sont regroupées en modules et assignées aux phases.
+
+<p align=center>  
+  <br>
+  <img src="https://user-images.githubusercontent.com/73474137/212499786-7e34d9af-8b98-4d38-902f-efc8bf2edd05.png"><br>
+  <i>~ illustration de tâches</i><br>
+</p>
+
+Chaque résultat fait objet d'une description, et pour certains d'entre eux des modèle de document les décrivent en détail. Chaque résultat a un rôle et des résultat minimum sont définie pour remplir les exigences envers la gouvenance de projet. Les résultats portant sur le même thème sont groupés en modules et rattachés aux tâches et aux phases.
+
+<p align=center>  
+  <br>
+  <img src="https://user-images.githubusercontent.com/73474137/212499819-bdc750a2-30b7-4277-86ed-1e9782195d24.png"><br>
+  <i>~ illustration de résultats</i><br>
+</p>
+
+<p align=center>  
+  <br>
+  <img src="https://user-images.githubusercontent.com/73474137/212500647-3416a60e-0659-491b-855b-d1d61ac9ba38.png"><br>
+  <i>~ cycle de projet</i><br>
+</p>
+
+### Initialisation
+
+Cette partie nous permet de définir l'ampleur du projet, et d'exprimer les besoins (mandant) et de comprendre les besoins (mandataire). Elle defini ces périmètre:
+
+- Qu'est-ce qui est incontournable ?
+- Qu'est-ce qui est important ?
+- Qu'est-ce qui est optionnel ?
+- Qu'est-ce qui est superflu ?
+
+L'initialisation nous permet de proposer des solutions en adéquation avec les besoins et d'élaborer un cahier de charges. Pour une vérification nous pouvons formuler une charte de projet contenante:
+
+- le but du projet
+- la description 
+- les prioritées
+- les objectifs
+- les critères de succès
+- les acteurs 
+- les rôles 
+- les responsabilités
+- l'organisation
+- la communication
+
+Nous pouvons aussi découper le projet en étapes, définir les jalons (délais), les tâches durées et coût.
