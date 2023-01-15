@@ -182,3 +182,36 @@ L'initialisation nous permet de proposer des solutions en adéquation avec les b
 - la communication
 
 Nous pouvons aussi découper le projet en étapes, définir les jalons (délais), les tâches durées et coût.
+
+#### Les acteurs
+
+**internes** -> endogène || **externes** -> exogène
+
+![image](https://user-images.githubusercontent.com/73474137/212531675-c98d8088-f288-4eb5-ad5b-5f5c1b98cd20.png)
+
+#### Besoin en objectif
+
+**idée** -> but -> besoins -> **objectif** -> *solution*
+
+- **But**: la poursuite continue d'un objectif valable jusqu'à ce qu'il soit atteint 
+- **Besoins**: recouvre l'ensemble de tout ce qui apparaît "être nécessaire" que cette nécessité soit consciente ou non
+- **Objectif**: une finalité que l'on s'est fixée et qui se doit d'être réalisée au travers d'un projet
+
+Ex: B: Faire du ski B: Des vacances, une résidence, du matériel de ski, de la neige O: définir la période de débart, sélectionnez la destination, réserver une location et réserver son matériel de ski
+
+*Les objectifs mis ensemble forme une list de tâche et l'oublie de l'un d'entre eux peut comprometre le but.*
+
+#### Analyse des besoins
+
+Différents type de besoins:
+- **Normaux**: bespoms explicitement établis
+- **Attendus**: implicites. èas exprimés mais nécessaires
+- **Excitants**: allant au-delà des espérances des clients
+
+Pour récupérer les informations nécessaire il faut écouter et comprendre le client en organisant des réunion, le connaître et des contacts, lire les documents disponibles, penser aux objectifs des réunions et penser aux problèmes.
+
+Des outils comme des questionnaires, des groupes de discussions, entretiens individuels ou des observations peuvent être utile.
+
+Example de question pour connaître les besoins normaux:
+
+Qui est derrière la demande de cette réalisation ? Qui va utiliser la solution proposée ? Avec quels bénéfices ? Quelle serait une "bonne" solution ? Quel sera l'environnement de la solution ? Y-a-t-il des contraintes ? Des problèmes de performance ? Qui sont les bons interlocuteurs ? Ai-je oublié des questions ? A qui d'autre dois-je m'adresser ?
